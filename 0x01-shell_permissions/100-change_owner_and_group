@@ -1,2 +1,2 @@
 #!/bin/bash
-hown vincet:staff *
+chown vincet:staff *
